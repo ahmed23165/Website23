@@ -1,0 +1,58 @@
+.home55{
+    width: 25rem;
+    height: 30rem;
+}
+.home61{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+.home58{
+    text-align: center;
+    padding-top: 12rem;
+    margin-top: 5rem;
+}
+.home63{
+    background-color: #5F9EA0;
+}
+@media only screen and (max-width: 575px)
+{
+    .home61{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
+    .home58{
+        font-size: 0.5rem;
+        text-align: center;
+    }
+    .home63{
+        width: 100%;
+    }
+    .home55{
+        width: 100%;
+    }
+}
+
+
+/*@media only screen and (max-width: 768px)
+{
+    .home61{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
+    .home58{
+        font-size: 0.5rem;
+        text-align: center;
+    }
+    .home63{
+        width: 146%;
+    }
+    .home55{
+        width: 100%;
+    }
+}
+    */

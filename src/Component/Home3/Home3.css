@@ -1,0 +1,56 @@
+.home32{
+    text-align: center;
+    padding-top: 5rem;
+}
+.home31{
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;    
+    padding-top: 2rem;
+    gap: 7rem;
+}
+.home34 h5{
+    font-size: 2rem;
+   align-items: center;
+}
+.home34{
+    align-items: center;
+}
+.home33 img{
+    width: 33rem;
+    height: 20rem;
+    
+}
+@media only screen and (max-width: 575px)
+{
+    .home31{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+    }
+    .home33 img{
+        width: 100%;
+    }
+    .home34{
+        font-size: 0.5rem;
+    }
+}
+/*
+@media only screen and (max-width: 768px)
+{
+    .home31{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 146%;
+    }
+    .home33 img{
+        width: 100%;
+    }
+    .home34{
+        font-size: 0.5rem;
+    }
+}
+    */

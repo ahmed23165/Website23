@@ -1,0 +1,43 @@
+.f2{
+    padding-left: 50%;
+}
+@media only screen and (max-width: 575px)
+{
+    .navbars88 {
+        width:  100%;
+        font-size: 0.5rem;
+            
+    }
+    .navbars88 h1{
+        font-size: 2.5rem;
+        margin-left: -6rem;
+        width: 100%;
+        
+    }
+    .f2{
+          text-align: center;
+          width: 100%;
+        
+          font-size: 1rem;
+    }
+
+}
+
+/*@media only screen and (max-width: 768px)
+{
+    .navbars88 {
+        width: 100%;
+    
+    font-size: 1rem;
+    
+    }
+    .navbars88 h1{
+        font-size: 1rem;
+    }
+    .f2{
+          text-align: center;
+          width: 100%;
+    }
+
+}
+*/
